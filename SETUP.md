@@ -2,16 +2,6 @@
 
 ============
 
-## Managed Cloud (Pro)
-
-[Sign up Free](https://app.klu.so/signup?utm_source=github_gerevai)
-
-- [x] Authentication
-- [x] Multiple Users
-- [x] GPU machine
-- [x] 24/7 Support
-- Self hosted version (with multi-user also supported)
-
 ## Self-hosted (Community)
 
 1. Install _Nvidia for docker_ (on host that runs the docker runtime)
