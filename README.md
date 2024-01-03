@@ -57,7 +57,26 @@ Enables searching using natural language. such as `"How to do X"`, `"how to conn
 <br>
 <br>
 
-# Another AI-powered tool for enterprise - AmigoAi
+#### Built by the community 💜
+
+<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+  <img src = "https://contrib.rocks/image?repo=gerevai/gerev"/>
+</a>
+
+Made with [contributors-img](https://contrib.rocks).
+
+<br>
+
+<pre>
+  
+<h2 align="center">
+  Discover more tools and elevate your capabilities!
+</h2>
+  
+</pre>
+<br>
+
+# AmigoAi
 <a href = "https://amigoapp.ai/">
   <img src = "https://framerusercontent.com/images/uUw1hh5U4LTNHDVai4fE204vIY.png"/>
 </a>
@@ -66,14 +85,5 @@ Enables searching using natural language. such as `"How to do X"`, `"how to conn
 #### AmigoAI is able to assist with onboarding new staff, finding documents, extracting information, insights and summarizations from documents and more
 
 ### <a href = "https://amigoapp.ai/">Explore AmigoAi now</a>
-<br>
-<br>
-<br>
 
-Built by the community 💜
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
-  <img src = "https://contrib.rocks/image?repo=gerevai/gerev"/>
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
