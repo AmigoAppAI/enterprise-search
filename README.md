@@ -45,7 +45,7 @@
 
 :pray: - by the community
 
-## Getting Started
+# Getting Started
 
 See the full guide at [SETUP.md](./SETUP.md).
 
@@ -53,14 +53,22 @@ See the full guide at [SETUP.md](./SETUP.md).
 
 Enables searching using natural language. such as `"How to do X"`, `"how to connect to Y"`, `"Do we support Z"`
 
+<br>
+<br>
+<br>
 
----
+# Another AI-powered tool for enterprise - AmigoAi
+<a href = "https://amigoapp.ai/">
+  <img src = "https://framerusercontent.com/images/uUw1hh5U4LTNHDVai4fE204vIY.png"/>
+</a>
 
-- **gerev is also popular with some big names. 😉**
+#### Get started with AI and boost your key metrics
+#### AmigoAI is able to assist with onboarding new staff, finding documents, extracting information, insights and summarizations from documents and more
 
----
-
-![first image](./images/bill.png)
+### <a href = "https://amigoapp.ai/">Explore AmigoAi now</a>
+<br>
+<br>
+<br>
 
 Built by the community 💜
 
